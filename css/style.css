@@ -1,3 +1,9 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         .first-section {
             background-color: rgb(49, 45, 45);
         }

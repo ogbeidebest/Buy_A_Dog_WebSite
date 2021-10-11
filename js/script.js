@@ -100,7 +100,7 @@ dogs.forEach(e => {
     <p>${e.Breed}</p>
     <p>${e.Price}</p>
     </div>
-    <button type="button" class="btn btn-primary btn-lg text-center ms-5 mb-5 justify-center ">Order Now</button>
+    <button type="button" class="btn btn-primary btn-lg text-center ms-5 mb-5 justify-center ">Add To Chart</button>
 </div>
 
 </div>
