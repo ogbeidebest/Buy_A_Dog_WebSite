@@ -1,0 +1,93 @@
+        .first-section {
+            background-color: rgb(49, 45, 45);
+        }
+        
+        .back {
+            background-color: rgb(243, 234, 222);
+        }
+        
+        .fourth-section {
+            background-color: rgb(119, 124, 124);
+        }
+        
+        .high {
+            height: 11.5rem;
+            width: 16rem;
+        }
+        
+        .wind {
+            width: 30%;
+        }
+        
+        .win:hover {
+            background-color: white;
+            color: black;
+        }
+        
+        .used {
+            height: 12rem;
+            width: 13rem;
+        }
+        
+        .contain {
+            width: 90%;
+            margin: 0 auto;
+        }
+        
+        .dog-section img {
+            height: 280px;
+            width: 100%;
+        }
+        
+        .dog-catergory {
+            background-color: rgb(223, 218, 212);
+        }
+        
+        .weigh {
+            flex-wrap: wrap;
+        }
+        
+        @media(max-width: 320px) {
+            .first-section-left {
+                display: none;
+            }
+            .first-section-right {
+                display: none;
+            }
+        }
+        
+        @media(max-width:375px) {
+            .first-section-left {
+                display: none;
+            }
+            .first-section-right {
+                display: none;
+            }
+        }
+        
+        @media(max-width:425px) {
+            .first-section-left {
+                display: none;
+            }
+            .first-section-right {
+                display: none;
+            }
+        }
+        
+        @media(max-width:769px) {
+            .first-section-left {
+                display: none;
+            }
+            .first-section-right {
+                display: none;
+            }
+        }
+        
+        @media(max-width:1024px) {
+            .first-section-left {
+                display: none;
+            }
+            .first-section-right {
+                display: none;
+            }
+        }
