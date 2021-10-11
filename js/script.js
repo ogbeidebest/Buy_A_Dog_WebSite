@@ -93,7 +93,7 @@ let dogSection = document.getElementById('dog-cage');
 let html = '';
 dogs.forEach(e => {
     html += `
-<div class="dog-catergory m-3 rounded-3 col-12 col-lg-3 col-md-4">
+<div class="dog-catergory m-3 rounded-3 col-12 col-lg-3 col-md-4 m-auto">
 <div class="dog-image "><img src="./img/${e.img}.jfif" alt="" class="rounded-2"></div>
 <div class="py-3 text-justify dog-info ms-5 fw-bold  ">
     <p>${e.Name}</p>
