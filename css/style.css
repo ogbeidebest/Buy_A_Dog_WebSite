@@ -87,6 +87,13 @@
             .first-section-right {
                 display: none;
             }
+            .card-body {
+                display: flex;
+                flex-direction: column;
+            }
+            .card {
+                width: 14rem !important;
+            }
         }
         
         @media(max-width:1024px) {
